@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="https://github.com/banner-qbpg.png" width="88" height="88" alt="qbpg profile logo" />
+  <img src="https://github.com/qbpgsg/banner-qbpg.png" width="88" height="88" alt="qbpg profile logo" />
 
   # 𝒒𝒃𝒑𝒈
 
